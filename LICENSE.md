@@ -1,4 +1,4 @@
-Copyright 2021, KHALED AL-KHATEEB
+Copyright 2021, KHALED AL-KHATEEB and JAMES ASIBEY MANU
 Permission is hereby granted, free of charge, to any person obtaining a copy of this WebApp and associated documentation files, to deal in the WebApp without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the WebApp, and to permit persons to whom the WebApp is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the WebApp.
